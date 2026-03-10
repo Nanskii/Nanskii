@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Welcome</h1>
+<hr>
+<p align="center">
+  <b><font size="6">⋇⊶⊰❣⊱⊷⋇ ⚠️ WELCOME ⚠️ ⋇⊶⊰❣⊱⊷⋇</font></b>
+</p>
+<hr>
 
 <div align="center">
-  <img src="https://media.tenor.com/h_j-gA2isIcAAAAM/residentevil-merchant.gif">
-
+  <img src="https://media.tenor.com/h_j-gA2isIcAAAAM/residentevil-merchant.gif" width="100%">
 </div>
 
 
@@ -26,26 +29,41 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://www.youtube.com/@nanskii01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/kinanfatih/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  &nbsp;
+  <a href="mailto:kinanfatihp@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kinanfatihputratama/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nanskii&background=0d1117&border=9d4edd&stroke=9d4edd&ring=72DE3F&fire=72DE3F&currStreakNum=9d4edd&currStreakLabel=72DE3F&sideNums=9d4edd&sideLabels=ffffff&dates=ffffff" height="150" alt="streak stats" />
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://media.tenor.com/3Sykma8la9gAAAAM/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif" width="50%">
+</div>
+
+###
+
+<h2 align="center">ᶻ 𝘇 𐰁 THANK YOU ᶻ 𝘇 𐰁</h2>
