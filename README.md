@@ -1,4 +1,3 @@
-# Halo 👋
 
 <!--
 **Nanskii/Nanskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Welcome</h1>
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/residentevil/images/8/84/Merchant_re4.jpg/revision/latest?cb=20120116022101">
+  <img src="https://media.tenor.com/h_j-gA2isIcAAAAM/residentevil-merchant.gif">
 
 </div>
 
