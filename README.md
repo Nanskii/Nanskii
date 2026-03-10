@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Welcome?</h1>
+
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/residentevil/images/8/84/Merchant_re4.jpg/revision/latest?cb=20120116022101">
+
+</div>
 
 ###
 
